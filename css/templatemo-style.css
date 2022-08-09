@@ -67,8 +67,8 @@ h2 { font-size: 1.8rem; }
 }
 
 .btn-primary {
-    background: #993333;
-    border-color: #993333;
+    background: #0d574eff;
+    border-color: #0d574eff;
 }
 
 .btn-secondary {
@@ -84,14 +84,14 @@ h2 { font-size: 1.8rem; }
 
 .btn-primary:focus,
 .btn-primary:hover {
-    background: #ec4949;
-    border-color: #ec4949;
+    background: rgb(5, 27, 24);
+    border-color: rgb(5, 27, 24);
 }
 
-.tm-bg-color-primary { background-color: #993333; }
+.tm-bg-color-primary { background-color: #0d574eff; }
 .tm-bg-color-secondary { background-color: #009999; }
 .tm-bg-color-gray { background-color: #666666; }
-.tm-text-color-primary { color: #993333; }
+.tm-text-color-primary { color: #0d574eff; }
 .tm-text-color-white { color: white; }
 .tm-text-color-gray { color: #666666; }
 .tm-font-thin { font-weight: 300; }
@@ -149,7 +149,7 @@ h2 { font-size: 1.8rem; }
 }
 
 .tm-form-header {
-    background: #993333;
+    background: #0d574eff;
     padding: 40px 40px 90px;
 }
 
